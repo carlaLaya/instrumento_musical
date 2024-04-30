@@ -33,6 +33,12 @@ h2 {
   font-weight: 700;
 }
 
+h6 {
+  color: var(--blanco);
+  margin-bottom: 60px;
+  font-weight: 800;
+}
+
 .teclado {
   background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
   box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
